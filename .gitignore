@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Logs
+error.log
+voice_debug.log
+*.log
+
+# Vosk model (download separately)
+vosk-model-small-en-us-0.15/
+
+# Media / audio assets
+*.mp3
+*.wav
+*.png
+*.jpg
+*.jpeg
+
+# Cache
+speech_cache/
+
+# OS junk
+Thumbs.db
+desktop.ini
